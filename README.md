@@ -1,4 +1,4 @@
-# build-a-travel-agency-page
+# Build A Travel Agency Page
 
 A simple, responsive travel agency landing page built as a FreeCodeCamp project.
 
